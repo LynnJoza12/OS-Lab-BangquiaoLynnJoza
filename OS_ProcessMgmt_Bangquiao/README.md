@@ -35,7 +35,7 @@ In the integrated terminal (powershell), cd into src/ and run:
 
 #### Task A – Creating a Single Child
 
-![Task A Screenshot](OS_ProcessMgmt_Bangquiao/Screenshots/task_A.png)
+![Task A Screenshot](Screenshots/task_A.png)
 
 The parent process successfully printed its own Process ID and then created the child process using CreateProcess. The child process correctly received the parent's PID as a command-line argument and printed both its own newly assigned PID and the parent's PID, confirming the established parent-child relationship. 
 
