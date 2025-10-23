@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// HIIII
 void printTable(int n, int pid[], int at[], int bt[], int ct[], int tat[], int wt[], float avgTAT, float avgWT) {
     printf("\nProcess Table:\n");
     printf("-------------------------------------------------\n");
